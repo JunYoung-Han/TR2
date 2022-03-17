@@ -16,7 +16,7 @@ public:
 	void Initialize();
 	void Update();
 	void Render_All_Item();
-	void Render_Equiped_Item();
+	void Render_Equiped_Item(); 
 
 
 private:
